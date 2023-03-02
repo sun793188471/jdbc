@@ -1,6 +1,5 @@
 package com.cn.beep.data.mapper;
 
-import com.baomidou.dynamic.datasource.annotation.DS;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.cn.beep.data.entity.Shoping;
 
